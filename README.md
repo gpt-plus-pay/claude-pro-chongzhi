@@ -1,5 +1,7 @@
 # Claude 充值教程｜国内充值 Claude Pro 与 Claude 代充方法
 
+> 更新时间：2026 年 06 月 19 日，测试可用
+
 > 国内用户如何充值 Claude Pro？本文整理 Claude 充值、Claude 代充、国内充值 Claude 的完整操作流程，支持支付宝和微信开通 Claude Pro，无需海外信用卡。
 
 [![充值入口](https://img.shields.io/badge/Claude-充值入口-d97757?style=for-the-badge)](https://gpt.hicxy.com)
